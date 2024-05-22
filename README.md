@@ -26,7 +26,7 @@ O dataset escolhido está disponível no site do MEC, mais especificamente atrav
    
 ---
 
-Dicionário de Dados (previo)
+Dicionário de Dados (prévio)
 ### Colunas Socioeconômicas:
 - Q001 e Q002: Escolaridade do pai e mãe respectivamente.
 - Q003 e Q004: Grupo que contempla a ocupação (trabalho) do pai e mãe respectivamente.
