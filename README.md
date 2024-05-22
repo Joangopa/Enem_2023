@@ -5,9 +5,10 @@
 #### Júlio Malta
 --- 
 ## Objetivos do projeto:
-### - Utilizando o Framework **OSEMN** (Obtain, Scrub, Explore, Model, Interpret), este projeto tem como finalidade realizar uma análise exploratória  dos dados do **Enem 2023**, para inferir sobre a questão:
-  > Há vantagem de estudantes de escolas privadas sobre os estudantes de escolas públicas?
-Muitas vezes, para poder começar uma mudança, é preciso provar que há a necessidade dela, e este projeto é um pontapé inicial na questão educativa.
+### - Este projeto tem como finalidade realizar uma análise exploratória  dos dados do **Enem 2023**, para inferir sobre a seguinte questão:
+### - Há vantagem de estudantes de escolas privadas sobre os estudantes de escolas públicas?
+#### - A disparidade nas notas entre estudantes de escolas públicas e privadas é um tema relevante e urgente. Este projeto visa lançar luz sobre essa discussão.
+Muitas vezes, para promover mudanças significativas, é necessário fundamentá-las em evidências sólidas. Este projeto representa um ponto de partida essencial para abordar a desigualdade educacional entre estudantes de escolas públicas e privadas. Ao analisar as notas no ENEM, buscamos não apenas identificar disparidades, mas também fornecer embasamento real para futuros projetos reparativos.
 
 ---
 ## Links e Informações 
@@ -16,6 +17,14 @@ O dataset escolhido está disponível no site do MEC, mais especificamente atrav
 ### No zip há também um dicionário para interpretação do banco de dados, que também foi usado para a construção do projeto.
 
 --- 
+## Organização
+### Utilizamos o Framework **OSEMN** (Obtain, Scrub, Explore, Model, Interpret)
+### O projeto está dividido em três arquivos, dos quais são:
+1. EDA - Análise inicial e inclusão da problemática.
+2. Agrupamento de dados via clustering.
+3. ML - Regressão.
+   
+---
 
 Dicionário de Dados (previo)
 ### Colunas Socioeconômicas:
