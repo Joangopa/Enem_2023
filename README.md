@@ -36,4 +36,9 @@ Dicionário de Dados (previo)
 ### Dados do participante:
 - TP_ESCOLA: Tipo da escola do Ensino Médio. Tendo 0 como privada, 1 como Pública
 
-### 
+### Dados da prova:
+- NU_NOTA_CN: Nota da prova de Ciências da Natureza
+- NU_NOTA_CH: Nota da prova de Ciências Humanas
+- NU_NOTA_LC: Nota da prova de Linguagens e Códigos
+- NU_NOTA_MT: Nota da prova de Matemática
+- NU_NOTA_REDACAO: Nota da prova de Redação
