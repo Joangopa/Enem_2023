@@ -16,6 +16,13 @@ O dataset escolhido está disponível no site do MEC, mais especificamente atrav
 ### No zip há também um dicionário para interpretação do banco de dados, que também foi usado para a construção do projeto.
 
 --- 
+## Organização
+### O projeto está dividido em três arquivos, dos quais são:
+1. EDA - Análise inicial e inclusão da problemática.
+2. Agrupamento de dados via clustering.
+3. ML - Regressão.
+   
+---
 
 Dicionário de Dados (previo)
 ### Colunas Socioeconômicas:
