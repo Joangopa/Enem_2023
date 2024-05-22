@@ -16,3 +16,24 @@ O dataset escolhido está disponível no site do MEC, mais especificamente atrav
 ### No zip há também um dicionário para interpretação do banco de dados, que também foi usado para a construção do projeto.
 
 --- 
+
+Dicionário de Dados (previo)
+### Colunas Socioeconômicas:
+- Q001 e Q002: Escolaridade do pai e mãe respectivamente.
+- Q003 e Q004: Grupo que contempla a ocupação (trabalho) do pai e mãe respectivamente.
+- Q005: Quantidade de moradores na residência.
+- Q006: Faixa da renda mensal familiar, sendo A nenhuma renda, B R$1.320,01 e acrescendo R$660,00 por letra até o P. A letra Q é acima de R$26.400,00.
+- Q007: Se na casa trabalha empregado(a) doméstico(a).
+- Q010: Quantidade de carros na residência.
+- Q011: Quantidade de motos na residência.
+- Q012: Quantidade de geladeiras na residência.
+- Q019: Quantiadde de televisão na residência.
+- Q021: Se possui TV por assinatura.
+- Q022: Se possui telefone celular.
+- Q024: Se possui computadores.
+- Q025: Se possui acesso à internet.
+
+### Dados do participante:
+- TP_ESCOLA: Tipo da escola do Ensino Médio. Tendo 0 como privada, 1 como Pública
+
+### 
