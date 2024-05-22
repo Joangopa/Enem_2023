@@ -43,7 +43,7 @@ Dicionário de Dados (previo)
 - Q025: Se possui acesso à internet.
 
 ### Dados do participante:
-- TP_ESCOLA: Tipo da escola do Ensino Médio. Tendo 0 como privada, 1 como Pública
+- TP_ESCOLA: Tipo da escola do Ensino Médio. Tendo 3 como privada, 2 como Pública
 
 ### Dados da prova:
 - NU_NOTA_CN: Nota da prova de Ciências da Natureza
